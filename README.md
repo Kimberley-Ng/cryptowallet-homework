@@ -19,19 +19,19 @@ Here, I have selected Ash and hired him for 0.05 hours.
 2. Navigate to the Transactions section of Ganache.
 
 Prior to the transaction, our account has 100 ETH.
-![Image of account balance pre-transaction](Image/pre-transaction-ganache.png)
+![Image of account balance pre-transaction](Images/pre-transaction-ganache.png)
 
 3. Click the Send Transaction button to sign and send the transaction with your Ethereum account information. 
 
-The trasnaction has been validated.
-![Image of webpage with validated trasnaction hash](Image/post-transaction-streamlit.png)
+The transaction has been validated.
+![Image of webpage with validated trasnaction hash](Images/post-transaction-streamlit.png)
 
 Post transaction, the relevant amount has been deducted from our account.
-![Image of account balance post-transaction](Image/Image/post-transaction-ganache.png)
+![Image of account balance post-transaction](Images/post-transaction-ganache.png)
 
 The transaction details can also be viewed on Ganche.
-![Image of transaction details](Image/
+![Image of transaction details](Images/transaction-details.png)
 
 4. Inspect the transaction’s To address.
 
-![Image of To address](Image/
+![Image of To address](Images/to-address.png)
